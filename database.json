@@ -1,0 +1,62 @@
+{
+    "plumbers": [
+      {
+        "id": 1,
+        "name": "Maude"
+      },
+      {
+        "id": 2,
+        "name": "Merle"
+      }
+    ],
+    "completions": [
+      {
+        "requestId": "1",
+        "plumberId": "1",
+        "date_created": 1675366487233,
+        "id": 1
+      },
+      {
+        "requestId": "2",
+        "plumberId": "1",
+        "date_created": 1675366492435,
+        "id": 2
+      },
+      {
+        "requestId": "4",
+        "plumberId": "1",
+        "date_created": 1675366530617,
+        "id": 3
+      }
+    ],
+    "requests": [
+      {
+        "description": "leaky faucet",
+        "address": "1",
+        "budget": "1",
+        "neededBy": "1111-01-01",
+        "id": 1
+      },
+      {
+        "description": "broken door knob",
+        "address": "2",
+        "budget": "2",
+        "neededBy": "2222-02-02",
+        "id": 2
+      },
+      {
+        "description": "replace gutters",
+        "address": "3",
+        "budget": "3",
+        "neededBy": "3333-03-03",
+        "id": 3
+      },
+      {
+        "description": "clogged sink",
+        "address": "4",
+        "budget": "4",
+        "neededBy": "4444-04-04",
+        "id": 4
+      }
+    ]
+  }
